@@ -1,9 +1,7 @@
 # 💫 Hi, I'm Irheil! ⋆౨ৎ˚⟡˖ ࣪ 
-💻 Full Stack Web App Developer<br>
-🌱 I’m currently learning and building with Next.js, Express, Node.js, and PostgreSQL<br>
-👨‍💻 Interested in web applications, full-stack development, and data science<br>
-💡 I enjoy solving problems and building things that make life easier<br>
-📊 Currently exploring Data Analytics, Tableau, Power BI, MySQL, and Python
+💻 Full Stack Web App Developer<br> <br>
+🌱 I’m currently learning and building with Next.js, Express, Node.js, and PostgreSQL<br>  <br>
+👨‍💻 Interested in web applications, full-stack development, and data science<br>  <br>
 
 
 # 💻 Tech Stack:
@@ -23,9 +21,7 @@
 
 </div>
 
-<div >
-<p>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·  · ·   </p>
-</div>
+---
 
 
 #### ⚙️ Backend Development
@@ -38,9 +34,7 @@
 
 </div>
 
-<div >
-<p>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·  · ·   </p>
-</div>
+---
 
 
 #### 🗄️ Databases
@@ -52,9 +46,7 @@
 
 </div>
 
-<div >
-<p>· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·  · ·   </p>
-</div>
+---
 
 
 
