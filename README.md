@@ -4,7 +4,7 @@
 👨‍💻 Interested in web applications, full-stack development, and data science<br>  <br>
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 #### 🚀 Frontend Development
 <div align="center">
 
@@ -64,8 +64,22 @@
 </div>
 <br><br>
 
+## 🌐 Connect with me!
 
-# 📊 GitHub Stats:
+<div align="center">
+<p>
+  <a href="https://linkedin.com/in/irheil-mae-s-antang-33883a362">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:irheilmaeantang@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+</div>
+
+
+
+## 📊 GitHub Stats:
 <div align="center">
 
 <!-- GitHub Stats -->
@@ -81,16 +95,6 @@
 
 </div>
 
-## 🌐 Connect with me!
-
-<p>
-  <a href="https://linkedin.com/in/irheil-mae-s-antang-33883a362">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="margin-right: 15px;" />
-  </a>
-  <a href="mailto:irheilmaeantang@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 
 
