@@ -82,13 +82,8 @@
 ## 📊 GitHub Stats:
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ayrelmay&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" />
-
 <!-- Streak Stats -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=ayrelmay&theme=catppuccin_mocha&hide_border=false" />
-
-<br/>
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayrelmay&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
